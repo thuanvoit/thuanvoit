@@ -16,12 +16,18 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+📚 I'm a junior at Georgia Tech.
 
-I'm a junior at Georgia Tech.
+🔭 I’m currently making automation protocol on Opentron OT-2.
 
 📫 How to reach me:
 
+linkedin.com/in/thuanvo09
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thuanvo09)
+
+thuanvo09@hotmail.com
+
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thuanvo09@hotmail.com)
 
 ![Thuan Vo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuanvoit&show_icons=true&theme=tokyonight&bg_color=00000000)
