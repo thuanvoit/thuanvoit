@@ -35,7 +35,7 @@
 
 ## 💪 Projects
 
-### [Airline Management System](https://github.com/thuanvoit/AirlineManagementSystem.git)
+### [✈️ Airline Management System](https://github.com/thuanvoit/AirlineManagementSystem.git)
 
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&logoWidth=30)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=30)
@@ -45,18 +45,18 @@
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&logoWidth=30)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&logoWidth=30)
 
-### [Campus Discovery Service](https://github.com/thuanvoit/CampusDiscoveryService.git)
+### [🔍 Campus Discovery Service](https://github.com/thuanvoit/CampusDiscoveryService.git)
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&logoWidth=30)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&logoWidth=30)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&logoWidth=30)
 
-### [Ballon World](https://github.com/thuanvoit/BalloonWorld)
+### [🎈 Ballon World](https://github.com/thuanvoit/BalloonWorld)
 
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&logoWidth=30)
 ![C#](https://img.shields.io/badge/-C_Sharp-A8B9CC?logo=c&logoColor=white&logoWidth=30)
 
-### [MyPass](https://github.com/thuanvoit/MyPass.git)
+### [🔑 MyPass](https://github.com/thuanvoit/MyPass.git)
 
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&logoWidth=30)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&logoWidth=30)
