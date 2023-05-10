@@ -33,6 +33,20 @@
 - linkedin.com/in/thuanvo09
 - thuanvo09@hotmail.com
 
+## 💪 Projects
+
+### Airline Management System
+- Technology: Flask, MySQL, Javacript, HTML, CSS
+
+### Campus Discovery Service
+- Technology: Java, Android, SQLite
+
+### Ballon World
+- Technology: Unity, C#
+
+# MyPass
+- Django, Javascript, SQLite, HTML, CSS
+
 ## 🤩 Hobbies
 
 Explore my photographs on 
