@@ -1,5 +1,5 @@
 ![alt text](./header.png)
----
+
 ## 👨‍💻 Technology
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -17,14 +17,14 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
+
 ## 😀 A little about me
 
 📚 I'm a junior at Georgia Tech.
 
 🔭 I’m currently making automation protocol on Opentron OT-2.
 
----
+
 ## 📫 How to reach me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thuanvo09)
