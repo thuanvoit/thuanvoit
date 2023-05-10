@@ -22,7 +22,7 @@ I'm a junior at Georgia Tech.
 📫 How to reach me: ...
 
 
-![Thuan Vo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuanvoit&show_icons=true&theme=tokyonight)
+![Thuan Vo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuanvoit&show_icons=true&bg_color=00000000)
 
 
 <!--
