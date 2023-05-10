@@ -59,7 +59,7 @@ Built with:
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&logoWidth=30)
 ![C#](https://img.shields.io/badge/-C_Sharp-A8B9CC?logo=c&logoColor=white&logoWidth=30)
 
-# MyPass
+### MyPass
 
 Built with: 
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&logoWidth=30)
