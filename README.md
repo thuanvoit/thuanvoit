@@ -36,6 +36,7 @@
 ## 💪 Projects
 
 ### Airline Management System
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&logoWidth=30)
 - Technology: Flask, MySQL, Javacript, HTML, CSS
 
 ### Campus Discovery Service
