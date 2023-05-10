@@ -18,6 +18,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 😀 A little about me
+
 📚 I'm a junior at Georgia Tech.
 
 🔭 I’m currently making automation protocol on Opentron OT-2.
