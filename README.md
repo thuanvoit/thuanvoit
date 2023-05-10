@@ -36,8 +36,6 @@
 
 [![Pexels](https://img.shields.io/badge/pexels-05A081?style=for-the-badge&logo=Pexels&logoColor=white)](https://www.pexels.com/@thuanvo09)
 
-https://www.pexels.com/@thuanvo09
-
 
 ![Thuan Vo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuanvoit&show_icons=true&theme=tokyonight&bg_color=00000000)
 
