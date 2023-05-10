@@ -1,4 +1,4 @@
-![alt text](./header.png)
+<img src="./header.png" width="100%">
 
 ## 👨‍💻 Technology
 
