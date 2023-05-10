@@ -17,7 +17,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
 ## 😀 A little about me
 
 📚 I'm a junior at Georgia Tech.
@@ -33,7 +32,15 @@
 - linkedin.com/in/thuanvo09
 - thuanvo09@hotmail.com
 
+## 🤩 Hobbies
+
+[![Pexels](https://img.shields.io/badge/pexels-05A081?style=for-the-badge&logo=Pexels&logoColor=white)](https://www.pexels.com/@thuanvo09)
+
+https://www.pexels.com/@thuanvo09
+
+
 ![Thuan Vo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuanvoit&show_icons=true&theme=tokyonight&bg_color=00000000)
+
 <!--
 **thuanvoit/thuanvoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
