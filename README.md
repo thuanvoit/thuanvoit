@@ -35,13 +35,13 @@
 
 ## 💪 Projects
 
-### [✈️ Airline Management System](https://github.com/thuanvoit/AirlineManagementSystem.git)
+#### [✈️ Airline Management System](https://github.com/thuanvoit/AirlineManagementSystem.git)
 
-### [🔍 Campus Discovery Service](https://github.com/thuanvoit/CampusDiscoveryService.git)
+#### [🔍 Campus Discovery Service](https://github.com/thuanvoit/CampusDiscoveryService.git)
 
-### [🎈 Ballon World](https://github.com/thuanvoit/BalloonWorld)
+#### [🎈 Ballon World](https://github.com/thuanvoit/BalloonWorld)
 
-### [🔑 MyPass](https://github.com/thuanvoit/MyPass.git)
+#### [🔑 MyPass](https://github.com/thuanvoit/MyPass.git)
 
 ## 🤩 Hobbies
 
