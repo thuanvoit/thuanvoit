@@ -19,10 +19,11 @@
 
 ## 😀 A little about me
 
-📚 I'm a junior at Georgia Tech.
+🐝 I'm a junior at Georgia Tech.
+
+🌱 I’m currently learning Computer Science (Info/Internetworks-Media)
 
 🔭 I’m currently making automation protocol on Opentron OT-2.
-
 
 ## 📫 How to reach me:
 
@@ -34,9 +35,11 @@
 
 ## 🤩 Hobbies
 
+Explore my photographs on 
+
 [![Pexels](https://img.shields.io/badge/pexels-05A081?style=for-the-badge&logo=Pexels&logoColor=white)](https://www.pexels.com/@thuanvo09)
 
-## 👋
+## 👋 Fun
 
 ![Thuan Vo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuanvoit&show_icons=true&theme=tokyonight&bg_color=00000000)
 
