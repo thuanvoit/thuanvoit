@@ -22,11 +22,13 @@
 
 ## 😀 A little about me
 
-🐝 I'm a junior at Georgia Tech.
+🐝 I'm a senior at Georgia Tech.
 
 🌱 I’m currently learning Computer Science (Info/Internetworks-Media)
 
 🔭 I’m currently making automation protocol on Opentron OT-2.
+
+🤔 I'm with team @GT_Fall23-Spring24 to develop a social media project for @ILUVUS. 
 
 ## 📫 How to reach me:
 
