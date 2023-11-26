@@ -40,7 +40,7 @@
 
 ## 💪 Projects
 
-#### [❤️ ILUVUS](https://github.com/ILUVUS)
+#### [❤️ ILUVUS (Junior Design)](https://github.com/ILUVUS) 
   - I work on both:
     - [Frontend](https://github.com/ILUVUS/iluvus-react-native): React-Native
     - [Backend](https://github.com/ILUVUS/iluvus-backend-api): Springboot
