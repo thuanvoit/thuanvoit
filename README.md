@@ -28,7 +28,7 @@
 
 🔭 I’m currently making automation protocol on Opentron OT-2.
 
-🤔 I'm with team @ILUVUS/GT_Fall23-Spring24 to develop a social media project for @ILUVUS. 
+🤔 I'm with team [@ILUVUS/GT_Fall23-Spring24](https://github.com/ILUVUS) to develop a social media project for [@ILUVUS](https://github.com/ILUVUS). 
 
 ## 📫 How to reach me:
 
