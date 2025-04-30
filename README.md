@@ -5,7 +5,7 @@
 
 - [thuan.bio](thuan.bio)
 - [linkedin.com/in/thuanvo09](linkedin.com/in/thuanvo09)
-- [thuanvo09@hotmail.com](mailto:thuanvo09@hotmail.com)
+- [contact@thuan.bio](mailto:contact@thuan.bio)
 
 ## Cool Stuff
 
