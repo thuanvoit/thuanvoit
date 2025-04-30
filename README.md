@@ -1,7 +1,7 @@
 ## 📫 How to reach me:
 
-- [thuan.bio](thuan.bio)
-- [linkedin.com/in/thuanvo09](linkedin.com/in/thuanvo09)
+- [https://thuan.bio](https://thuan.bio)
+- [linkedin.com/in/thuanvo09](https://linkedin.com/in/thuanvo09)
 - [contact@thuan.bio](mailto:contact@thuan.bio)
 
 ## Cool Stuff
